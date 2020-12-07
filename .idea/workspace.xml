@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99220983-e41c-4eba-a082-1d0ebf8f92c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kolo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqbfFQ9rITgKdQ2MzOuGBTnphZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marce\PycharmProjects\kolo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LIA">
+    <configuration name="LIA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MPRT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MPRT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ORF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ORF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kollo" type="PythonConfigurationType" factoryName="Python">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="primers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\marce\PycharmProjects\kolo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="szkoła" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kolo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/szkoła.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.kollo" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.LIA" />
+      <item itemvalue="Python.MPRT" />
+      <item itemvalue="Python.ORF" />
+      <item itemvalue="Python.primers" />
+      <item itemvalue="Python.szkoła" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LIA" />
+        <item itemvalue="Python.MPRT" />
+        <item itemvalue="Python.ORF" />
+        <item itemvalue="Python.primers" />
+        <item itemvalue="Python.szkoła" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99220983-e41c-4eba-a082-1d0ebf8f92c7" name="Default Changelist" comment="" />
+      <created>1576087173937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576087173937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="22" key="#GC_count" timestamp="1601638054604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="22" key="#GC_count/0.0.1536.824@0.0.1536.824" timestamp="1601638054604" />
+    <state x="361" y="70" width="814" height="732" key="#Intentions" timestamp="1602071342797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" width="814" height="732" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1602071342797" />
+    <state x="525" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604602300255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604602300255" />
+    <state x="499" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604054707174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604054707174" />
+    <state x="611" y="302" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1603645642336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="302" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1603645642336" />
+    <state x="496" y="38" key="#dupka" timestamp="1602666878193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="38" key="#dupka/0.0.1536.824@0.0.1536.824" timestamp="1602666878193" />
+    <state x="0" y="0" key="FileChooserDialogImpl" timestamp="1607338702236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607338702236" />
+    <state x="0" y="0" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603059138684" />
+    <state width="1366" height="178" key="GridCell.Tab.0.bottom" timestamp="1606559867681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1366" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1606559867681" />
+    <state width="1515" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824/1.-1080.1920.1040@0.0.1536.824" timestamp="1602756422334" />
+    <state width="1899" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824/1.-1080.1920.1040@1.-1080.1920.1040" timestamp="1602798379565" />
+    <state width="1364" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606236547317" />
+    <state width="1366" height="178" key="GridCell.Tab.0.center" timestamp="1606559867681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1366" height="178" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1606559867681" />
+    <state width="1515" height="145" key="GridCell.Tab.0.center/0.0.1536.824/1.-1080.1920.1040@0.0.1536.824" timestamp="1602756422334" />
+    <state width="1899" height="145" key="GridCell.Tab.0.center/0.0.1536.824/1.-1080.1920.1040@1.-1080.1920.1040" timestamp="1602798379565" />
+    <state width="1364" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606236547316" />
+    <state width="1366" height="178" key="GridCell.Tab.0.left" timestamp="1606559867681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1366" height="178" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1606559867681" />
+    <state width="1515" height="145" key="GridCell.Tab.0.left/0.0.1536.824/1.-1080.1920.1040@0.0.1536.824" timestamp="1602756422334" />
+    <state width="1899" height="145" key="GridCell.Tab.0.left/0.0.1536.824/1.-1080.1920.1040@1.-1080.1920.1040" timestamp="1602798379565" />
+    <state width="1364" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606236547316" />
+    <state width="1366" height="178" key="GridCell.Tab.0.right" timestamp="1606559867681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1366" height="178" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1606559867681" />
+    <state width="1515" height="145" key="GridCell.Tab.0.right/0.0.1536.824/1.-1080.1920.1040@0.0.1536.824" timestamp="1602756422334" />
+    <state width="1899" height="145" key="GridCell.Tab.0.right/0.0.1536.824/1.-1080.1920.1040@1.-1080.1920.1040" timestamp="1602798379565" />
+    <state width="1364" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606236547317" />
+    <state width="1515" height="226" key="GridCell.Tab.1.bottom" timestamp="1603748663045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603748663045" />
+    <state width="1515" height="226" key="GridCell.Tab.1.center" timestamp="1603748663045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603748663045" />
+    <state width="1515" height="226" key="GridCell.Tab.1.left" timestamp="1603748663045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603748663045" />
+    <state width="1515" height="226" key="GridCell.Tab.1.right" timestamp="1603748663045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603748663045" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1607338864308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607338864308" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603097214448" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1607338205259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607338205259" />
+    <state x="582" y="-783" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1.-1080.1920.1040@1.-1080.1920.1040" timestamp="1602791203570" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605282036420" />
+    <state x="282" y="19" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603305074258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="19" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1603305074258" />
+    <state x="510" y="55" key="refactoring.ChangeSignatureDialog" timestamp="1603302255804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="55" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1603302255804" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606156823809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606156823809" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="seq_2[754]" language="Python" />
+        <watch expression="seq_1[294]" language="Python" />
+        <watch expression="seq_1[i+counter]" language="Python" />
+        <watch expression="seq_2[j]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
