@@ -23,7 +23,6 @@ def motifs(seq_1, seq_2):
                     j -= counter
                     counter = 0
 
-
             else:
                 break
             j += 1

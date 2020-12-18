@@ -1,33 +1,22 @@
-forward = 'gatgcttcgaaatacgaaacgtggcagt'.upper()
-reverse = 'gccatagctttgtgtcattgatcatacc'.upper()
+forward = 'tggaatgttgataaaagtaatgccccacctacctatactctttca'.upper()
+reverse = 'tggaatgttgataaaagtaatgccccacctacctatactctttca'.upper()
 
-ready_rev = []
+ready_rev = reverse[::-1].translate(str.maketrans("ATGC", "TACG"))
 
-for i in reverse:
-    if i == 'A':
-        ready_rev.append('T')
-    elif i == 'T':
-        ready_rev.append('A')
-    elif i == 'C':
-        ready_rev.append('G')
-    elif i == 'G':
-        ready_rev.append('C')
-    else:
-        ready_rev.append('?')
-
-ready_rev = ''.join(ready_rev)
-
-print(ready_rev[::-1].lower())
+print("starter reverse: ", ready_rev.lower())
 
 
 def GC_content(primer):
     zaw_GC = 0
+    proc_mut = (3 * 100) / len(primer)
     for i in primer:
         if i == 'G' or i == 'C':
             zaw_GC += 1
     Tm: int = 2 * (len(primer) - zaw_GC) + 4 * zaw_GC
+    Tm_mut_sub: int = 81.5 + (0.41 * (zaw_GC * 100) / len(primer)) - (675 / len(primer)) - proc_mut
 
-    return (zaw_GC * 100) / len(primer), len(primer), Tm
+    return (zaw_GC * 100) / len(primer), len(primer), Tm, Tm_mut_sub
 
-print(GC_content(forward.upper()))
-print(GC_content(ready_rev.upper()))
+
+print("dla forward: ", GC_content(forward.upper()))
+print("dla reverse: ", GC_content(ready_rev.upper()))

@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-def loadSeqsFromFile(Path):
+def loadSeqsFromFile(Path, format):
     sequences = open(Path)
     seq_list = []
 
