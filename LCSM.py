@@ -1,6 +1,6 @@
 import Utils
 
-seq_list = Utils.loadSeqsFromFile("rosalind_grph.txt", "fasta")
+seq_list = Utils.loadSeqsFromFile("datasets/rosalind_grph.txt", "fasta")
 
 
 def motifs(seq_1, seq_2):

@@ -1,4 +1,4 @@
-prot_seq = open("rosalind_mrna (1).txt").read()
+prot_seq = open("datasets/rosalind_mrna (1).txt").read()
 
 def rna_wariants(protein_sequence):
     nt1 = sum(map(protein_sequence.count, ["M", "W"]))

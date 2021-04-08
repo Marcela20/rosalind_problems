@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-my_seqs = open("rosalind_gc.txt")
+my_seqs = open("datasets/rosalind_gc.txt")
 
 highest_counter = 0
 

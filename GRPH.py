@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-sequences = open("rosalind_grph.txt")
+sequences = open("datasets/rosalind_grph.txt")
 seq_list = []
 
 for record in SeqIO.parse(sequences, 'fasta'):

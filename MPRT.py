@@ -4,7 +4,7 @@ from Bio import SeqIO
 import Utils
 import re
 
-with open("rosalind_mprt (1).txt") as names:
+with open("datasets/rosalind_mprt (1).txt") as names:
     lines = names.readlines()
 
 for name in lines:
