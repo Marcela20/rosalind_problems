@@ -14,7 +14,6 @@ for record in SeqIO.parse(my_seqs, "fasta"):
         highest_counter = counter
         top = {(highest_counter * 100 / len(record.seq)): record.id}
 
-
-print(top)
+        print(top)
 
 

@@ -1,30 +1,30 @@
 k, m, n = 24, 26, 18
 
 def mendel(k, m, n):
-    populacja = k + m + n
-    populacja_2 = populacja - 1
+    population = k + m + n
+    population_2 = population - 1
 
     pm, pn, pk = m/(k+m+n), n/(k+m+n), k/(k+m+n)
 
-    lista_początkowa = [pk, pm, pn]
+    starting_list = [pk, pm, pn]
 
-    lista_k = [(k - 1) / populacja_2, n / populacja_2, m / populacja_2]
-    lista_m = [k / populacja_2, n / populacja_2, (m - 1) / populacja_2]
-    lista_n = [k / populacja_2, (n - 1) / populacja_2, m / populacja_2]
+    list_k = [(k - 1) / population_2, n / population_2, m / population_2]
+    list_m = [k / population_2, n / population_2, (m - 1) / population_2]
+    list_n = [k / population_2, (n - 1) / population_2, m / population_2]
 
-    lista_koncowa = [lista_k, lista_m, lista_n]
+    list_fin = [list_k, list_m, list_n]
 
-    lista_ostateczna = zip(lista_początkowa, lista_koncowa)
+    list_fin_fin = zip(starting_list, list_fin)
 
-    prawdop_lista = []
+    list_prob = []
 
-    for i, y in lista_ostateczna:
+    for i, y in list_fin_fin:
         prawdop = []
         for z in y:
             prawdop.append(i*z)
-        prawdop_lista.append(prawdop)
+        list_prob.append(prawdop)
 
-    return prawdop_lista
+    return list_prob
 
 prawd_k = [1, 1, 1]
 prawd_m = [1, 0.5, 0.75]
@@ -32,13 +32,13 @@ prawd_n = [ 1, 0, 0.5]
 
 print(mendel(k, m, n))
 
-prawdopodobieństwa = mendel(k, m, n)
+probabilities = mendel(k, m, n)
 
 
 
 prawd_sum = [prawd_k, prawd_m, prawd_n]
 
-listapokrzyzowaniu = zip(prawdopodobieństwa, prawd_sum)
+listapokrzyzowaniu = zip(probabilities, prawd_sum)
 #print(tuple(listapokrzyzowaniu))
 
 wynik_ostateczny_z_ostatnich = 0
