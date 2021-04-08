@@ -1,10 +1,11 @@
 from itertools import permutations
 
-wyrazy = []
-for i in range(1, 6 + 1):
-    wyrazy.append(i)
 
-perm = permutations(wyrazy)
+symbols = []
+for i in range(1, 6 + 1):
+    symbols.append(i)
+
+perm = permutations(symbols)
 
 counter = 0
 a = ''

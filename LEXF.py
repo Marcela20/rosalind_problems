@@ -4,7 +4,7 @@ import itertools
 
 symbols = "A B C D E F G H".replace(" ", "")
 
-def lista():
+def fun():
     my_list = list(itertools.product(symbols, repeat=6))
     lista = []
     for i in my_list:
@@ -12,7 +12,7 @@ def lista():
         lista.append(my_string)
     return lista, len(lista)
 
-print(lista())
+print(fun())
 
 
 
